@@ -1,0 +1,4 @@
+timestamp,strategy,symbols,params,start,end,cagr_pct,maxdd_pct,sharpe,calmar,n_trades,cost_mult,financing_annual,notes
+2026-10-25T17:00:20+00:00,tsmom,XAUUSD,"{'lookback': 252, 'vol_window': 60, 'weekly': True}",2015-02-20,2026-07-17,3.54,-33.69,0.36,0.11,38,1.0,0.0,
+2026-10-25T17:00:43+00:00,rsi2_dip,"US500,NAS100,GER40,UK100","{'rsi_entry': 10, 'rsi_exit': 60, 'max_hold': 5, 'sma_filter': 200, 'weight': 0.2}",2016-01-25,2026-07-17,1.36,-8.16,0.37,0.17,703,1.0,0.0,
+2026-10-25T17:00:54+00:00,sma_cross,XAUUSD,"{'fast': 50, 'slow': 200}",2015-02-20,2026-07-17,5.83,-38.37,0.43,0.15,17,1.0,0.0,
